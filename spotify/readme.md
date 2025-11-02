@@ -204,6 +204,6 @@ Each part plays a role in making sure songs upload, stream, and update smoothly 
 10. The system **invalidates the CDN cache** for that artist or album to ensure updated content is served.
 11. Finally, the **server sends a response** back to the mobile app confirming that the song was uploaded successfully.
 
-
+---
 
 
